@@ -1,5 +1,20 @@
-(kicad_sch (version 20231120) (generator "eeschema") (generator_version "8.0")
-  (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5d644da9-516e-4b10-bbc9-66608ae2cf40")
+	(paper "A")
+	(title_block
+		(title "Ematch Simulator")
+		(date "2024-11-16")
+		(rev "V1.0")
+		(company "Missouri S&T Rocket Design Team")
+		(comment 1 "Seth Sievers")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )
